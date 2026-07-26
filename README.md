@@ -1,7 +1,6 @@
 # California Housing Neural Network
 
 Dieses Projekt wurde im Rahmen eines Universitätsprojekts als Modulabschlussprüfung für das Modul **Künstliche Intelligenz 1 (KI I)** entwickelt. Es enthält ein Jupyter Notebook zur Vorhersage von Hauspreisen anhand des California Housing Datensatzes.
-Dieses Projekt enthält ein Jupyter Notebook zur Vorhersage von Hauspreisen anhand des California Housing Datensatzes.
 
 ## Inhalt
 
